@@ -1,4 +1,4 @@
-public class Extra {
+public class Tester {
     public static void main(String[] args) {
 //        Object[] arr = {null, 10, 5, 15, 2, 8, null, 20, null, 4, 6, null, null, null, 18};
 //        Object[] arr = {null, 50, 30, 20, null, 40, null, 70, 60, null, 80};
