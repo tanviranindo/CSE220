@@ -1,0 +1,2 @@
+Returned by the POP operations   : E-D-E-O-Y-D-L-A-P-E
+Stack contents from top to bottom: D-O-P-M-F
